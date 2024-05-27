@@ -8,7 +8,8 @@ import FormSearch from "./FormSearch";
 
 function App () {
 	const [myClubs, setMyClubs] = useState(initialData)
-	const [newClub, setNewClub] = useState({ name: "", openOnWeekdays: false, openOnWeekend: false }) //en este caso sabemos que el valor inicial es desmarcado
+	const [newClub, setNewClub] = useState({ name: "", openOnWeekdays: false, openOnWeekend: false })
+	//en este caso sabemos que el valor inicial es desmarcado
 	const [filter, setFilter] = useState("all")
 	const [search, setSearch] = useState("")
 	// const [dataForm, setDataForm] = useState({key: "", value: ""})
