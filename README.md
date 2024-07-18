@@ -59,4 +59,6 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos 
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
 ## Contacto 📩
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi perfil de [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/deligarbur)
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi perfil de GitHub](https://github.com/deligarbur).
+
+¡Gracias por visitar el repositorio! 🌟
